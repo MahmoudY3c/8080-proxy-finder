@@ -7,7 +7,7 @@ this isn a simple script that getting list proxy list from `https://free-proxy-l
 4. run `npm install` to install requirements
 5. run `node proxyList` to run the script
 
-- after running the script it's will show you some status while walking through proxies and after finished you will find a new file created in the same script diectory called `proxy-list (Number)` about `(Number)` it's a number generated to avoid overriding the `proxy-list` which means in every time you run the script it's will generate a new file with the proxy list and status
+- after running the script it's will show you some status while walking through proxies and after finished you will find a new file created in the same script diectory called `proxy-list (Number).json` about `(Number)` it's a number generated something like `proxy-list 0.json`, `proxy-list 1.json` to avoid overriding the `proxy-list` which means in every time you run the script it's will generate a new file with the proxy list and status
 
 Tip
 =====
