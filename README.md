@@ -1,5 +1,5 @@
 # 8080-proxy-finder
-this isn a simple script that getting list proxy list from `https://free-proxy-list.net/` and then use `http://www.proxy-checker.org/` trying to get you a list of working 8080 proxies
+this isn a simple script for testing purpose that getting list proxy list from `https://free-proxy-list.net/` and then use `http://www.proxy-checker.org/` trying to get you a list of working 8080 proxies
 # Requirements
 1. make sure that you are already installed `nodejs` if you are not installed you can download lastest version from [this link](https://nodejs.org/en/download/) 
 2. download the files 
